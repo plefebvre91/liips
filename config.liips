@@ -1,0 +1,38 @@
+# Configuration file for Liips program
+# Syntax: <letter>:<file>
+
+# Fallback file
+default:img/default.png
+mute:img/mute.png
+
+# Alphabet letters
+a:img/aei.png
+b:img/bmp.png
+c:img/cdgtnskxyz.png
+d:img/cdgtnskxyz.png
+e:img/aei.png
+f:img/fv.png
+g:img/cdgtnskxyz.png
+# No 'h'
+i:img/aei.png
+j:img/j-ch.png
+k:img/cdgtnskxyz.png
+l:img/l.png
+m:img/bmp.png
+n:img/cdgtnskxyz.png
+o:img/o.png
+p:img/bmp.png
+q:img/qw.png
+r:img/r.png
+s:img/cdgtnskxyz.png
+t:img/cdgtnskxyz.png
+u:img/u.png
+v:img/fv.png
+w:img/qw.png
+x:img/cdgtnskxyz.png
+y:img/cdgtnskxyz.png
+z:img/cdgtnskxyz.png
+
+
+# Others
+ch:img/j-ch.png
